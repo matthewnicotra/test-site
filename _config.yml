@@ -29,8 +29,11 @@ url: "https://matthewnicotra.github.io" # the base hostname & protocol for your 
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5" 
+
 plugins:
   - jekyll-feed
 
