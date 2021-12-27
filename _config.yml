@@ -32,10 +32,11 @@ github_username:  jekyll
 
 # Build settings
 # theme: minima
-# remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"  # this worked
-# remote_theme: "hydecorp/hydejack"                             # this worked
-# remote_theme: "matthewnicotra/hydejack-matthewnicotra"        # thid DID NOT work
-remote_theme: "matthewnicotra/jekyll-theme-basically-basic-matthewnicotra"
+# remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"              # worked
+# remote_theme: "hydecorp/hydejack"                                         # worked
+# remote_theme: "matthewnicotra/hydejack-matthewnicotra"                    # DID NOT work
+remote_theme: "matthewnicotra/jekyll-theme-basically-basic-matthewnicotra"  # worked
+# remote_theme: "matthewnicotra/hydejack-starter-kit-matthewnicotra"
 
 
 plugins:
