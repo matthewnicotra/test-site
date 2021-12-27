@@ -35,7 +35,7 @@ github_username:  jekyll
 # remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"  # this worked
 # remote_theme: "hydecorp/hydejack"                             # this worked
 # remote_theme: "matthewnicotra/hydejack-matthewnicotra"        # thid DID NOT work
-remote_theme: "matthewnicotra/jekyll-theme-basically-basic"
+remote_theme: "matthewnicotra/jekyll-theme-basically-basic-matthewnicotra"
 
 
 plugins:
