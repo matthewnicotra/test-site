@@ -36,9 +36,9 @@ github_username:  jekyll
 # remote_theme: "matthewnicotra/jekyll-theme-basically-basic-matthewnicotra"  # worked
 
 # remote_theme: "hydecorp/hydejack"                                           # worked
-# remote_theme: "matthewnicotra/hydejack-matthewnicotra"                      # worked after adding plugin jekyll-include-cache
+remote_theme: "matthewnicotra/hydejack-matthewnicotra"                      # worked after adding plugin jekyll-include-cache
 
-remote_theme: "hydecorp/hydejack-starter-kit"                               # DID NOT work
+# remote_theme: "hydecorp/hydejack-starter-kit"                               # DID NOT work
 # remote_theme: "matthewnicotra/hydejack-starter-kit-matthewnicotra"          # DID NOT work
 
 
